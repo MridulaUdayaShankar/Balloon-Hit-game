@@ -1,0 +1,53 @@
+body{
+    background-image: url(http://www.tuulijuntunen.net/wp-content/uploads/splash_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.container{
+    margin:0 auto;
+}
+.row{
+    margin:0 auto;
+    padding:20px;
+    font-size:25px;
+    font-family: 'Luckiest Guy', cursive;
+}
+.col-lg-12{
+    text-align: center;
+    font-size: 40px;
+}
+.col-md-12{
+    font-size: 20px;
+    
+}
+.col-md-6{
+    font-size: 20px;
+}
+.row-wins{
+    height:30px;
+    padding:20px;
+    text-align: center;
+}
+.row-losses{
+    height:30px;
+    padding:20px;
+    text-align: center;
+}
+.row-display{
+    height:30px;
+    padding:20px;
+    text-align: center;
+}
+
+.row-score{
+    height:30px;
+    padding:20px;
+    text-align: center;
+}
+.randomTotal{
+    height:30px;
+    padding:20px;
+    text-align: center;
+}
+
