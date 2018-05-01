@@ -1,4 +1,4 @@
-# Project title: Crystals Collector / Unit-4-game
+# Project title: Balloon Hit Game / Unit-4-game
  
 ## Getting Started
 
